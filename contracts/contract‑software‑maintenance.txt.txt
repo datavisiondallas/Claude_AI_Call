@@ -1,0 +1,19 @@
+SOFTWARE MAINTENANCE AGREEMENT
+
+Date: March 15, 2024
+Provider: ApexCode Solutions
+Customer: FinServe Analytics LLC
+
+Scope: Ongoing maintenance, bug fixes, and minor feature enhancements for the FinServe reporting platform
+Term: 12 months (Apr 1, 2024 – Mar 31, 2025)
+Rate: $12,500/month
+Payment: Due on the 15th of each month, Net 15
+
+Services Included:
+- Critical bug resolution within 48 hours
+- Monthly system health check
+- Up to 20 hours of development support per month
+
+Termination: 45 days written notice required
+IP Ownership: All modifications to the platform remain property of Customer
+Data Security: Provider must follow SOC 2 compliant handling procedures
